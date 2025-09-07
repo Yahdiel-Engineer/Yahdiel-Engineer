@@ -49,9 +49,9 @@
 ---
 
 ### 📫 Let’s Connect
-- 💼 LinkedIn: [Your LinkedIn link here]  
-- 🌐 Portfolio: [Your personal website here]  
-- ✉️ Email: [Your email here]  
+- 💼 LinkedIn: www.linkedin.com/in/bryan-stanley-koyaweda-785b56265
+<!--- 🌐 Portfolio: [Your personal website here]  -->
+- ✉️ Email: bkoyaweda1@gmail.com 
 
 ---
 
