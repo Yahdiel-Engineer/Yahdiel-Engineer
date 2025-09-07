@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 Engineering student, specialized in **data & software engineering**  
-- 🌱 Currently learning **AI and Machine Learningstyle=flat&logo=pytorch&logoColor=white)  
+- 🌱 Currently learning **AI and Machine Learning
 - 🎯 Goal: grow as a **Data Engineer / Data Scientist**  
 - 🎮 Passionate about video games and building practical projects  
 
@@ -27,8 +27,8 @@
 ---
 
 ### 🚀 Projects
-- [🎮 RPG Game in Python](https://github.com/Yahdiel-Engineer/mon-rpg) – Developed a **role-playing game** from scratch using **Pygame**; implemented game logic, player mechanics, and interactive environments. Showcases **problem-solving and Python coding skills**.  
-- [🖥️ Internship API Project](https://github.com/Yahdiel-Engineer/net-discovery) – **REST API** developed during first internship with database integration and authentication 
+- [🎮 RPG Game in Python](https://github.com/Yahdiel-Engineer/Pygame) – Developed a **role-playing game** from scratch using **Pygame**; implemented game logic, player mechanics, and interactive environments. Showcases **problem-solving and Python coding skills**.  
+- [🖥️ Internship API Project](https://github.com/Yahdiel-Engineer/API) – **REST API** developed during first internship with database integration and authentication 
 - [🌐 Network Topology Discovery](https://github.com/Yahdiel-Engineer/net-discovery) – Created a **Python script** to automatically analyze network configurations, detect neighbors, and generate topology diagrams. Highlights **network automation and scripting skills**.  
 
 ---
