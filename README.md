@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 Engineering student, specialized in **data & software engineering**  
-- 🌱 Currently learning **Machine Learning with Scikit-learn**, and diving into **PyTorch** ![Learning PyTorch](https://img.shields.io/badge/PyTorch-Learning-orange?style=flat&logo=pytorch&logoColor=white)  
+- 🌱 Currently learning **AI and Machine Learningstyle=flat&logo=pytorch&logoColor=white)  
 - 🎯 Goal: grow as a **Data Engineer / Data Scientist**  
 - 🎮 Passionate about video games and building practical projects  
 
