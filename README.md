@@ -2,7 +2,7 @@
 
 💻 **Engineer & Data Enthusiast**  
 📊 Passionate about **Data Analysis, Machine Learning, and Software Engineering**  
-🌍 Based in La Rochelle in France  
+🌍 Based in La Rochelle, France  
 
 ---
 
