@@ -1,15 +1,15 @@
 # 👋 Hi, I’m Yahdiel  
 
-💻 **Engineer & Data Enthusiast**  
-📊 Passionate about **Data Analysis, Machine Learning, and Software Engineering**  
+💻 **Engineer Network and Dvops**  
+📊 Passionate about **computer science, Network, and Software Engineering**  
 🌍 Based in La Rochelle, France  
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Engineering student, specialized in **data & software engineering**  
-- 🌱 Currently learning **AI and Machine Learning
-- 🎯 Goal: grow as a **Data Engineer / Data Scientist**  
+- 🎓 Engineering student, specialized in **network & software engineering**  
+- 🌱 Currently learning **Automatisation
+- 🎯 Goal: grow as a **Network Engineer / Devops**  
 - 🎮 Passionate about video games and building practical projects  
 
 ---
