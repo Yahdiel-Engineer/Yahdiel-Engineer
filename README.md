@@ -112,31 +112,4 @@ API REST sécurisée développée en stage, incluant l'authentification JWT et l
 
 ---
 
-### 📚 Currently Learning
-![Power BI](https://img.shields.io/badge/Power%20BI-Data-blue?style=for-the-badge&logo=power-bi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-Learning-orange?style=for-the-badge&logo=pytorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
  
-
----
-
-### 📈 GitHub Stats
-![Yahdiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yahdiel-Engineer&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yahdiel-Engineer&layout=compact&theme=radical)  
-
----
-
-### 📫 Let’s Connect
-- 💼 LinkedIn: www.linkedin.com/in/bryan-stanley-koyaweda-785b56265
-<!--- 🌐 Portfolio: [Your personal website here]  -->
-- ✉️ Email: stanley.koyaweda@gmail.com 
-
----
-
-<!-- Notes:
-- Replace "EngineerYahdiel" with your actual GitHub username if needed.
-- Update LinkedIn, Portfolio, and Email links with your real info.
-- Add or remove projects depending on what you want to showcase.
-- The "Currently Learning" section highlights your growth and active learning path.
--->
