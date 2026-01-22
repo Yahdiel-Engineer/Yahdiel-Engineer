@@ -49,6 +49,11 @@ Script Python pour analyser automatiquement les configurations réseau, détecte
 > *Backend Development (FastAPI, SQL)*
 API REST sécurisée développée en stage, incluant l'authentification JWT et l'intégration de base de données pour une application métier.
 
+#### 🌐 [Web Portal for International Students](https://eigsi.wordpress.com)
+> *Web Architecture & Automation (WordPress, Vercel, Python)*
+Conception d'un portail web dédié aux étudiants internationaux avec une architecture découplée.
+* **Tech :** WordPress (Headless CMS), déploiement optimisé sur **Vercel**.
+* **Automation :** Scripts **Python** pour automatiser l'intégration des contenus et le traitement des données administratives.
 ---
 
 ### 📊 GitHub Stats
