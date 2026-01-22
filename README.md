@@ -54,6 +54,12 @@ API REST sécurisée développée en stage, incluant l'authentification JWT et l
 Conception d'un portail web dédié aux étudiants internationaux avec une architecture découplée.
 * **Tech :** WordPress (Headless CMS), déploiement optimisé sur **Vercel**.
 * **Automation :** Scripts **Python** pour automatiser l'intégration des contenus et le traitement des données administratives.
+
+#### 🔫 [Operation Anti-Balaka: FPS Raycasting Engine](https://github.com/Yahdiel-Engineer/Operation-Anti-Balaka)
+> *Game Development & Algorithms (Python, Pygame)*
+Un moteur de jeu de tir à la première personne (FPS) style Doom, développé entièrement en Python.
+* **Core Tech :** Implémentation manuelle du moteur de **Raycasting** pour le rendu 3D (pas de moteur 3D préfabriqué).
+* **Architecture :** Structure modulaire (MVC) avec gestion avancée des Sprites et du Pathfinding pour les NPCs.
 ---
 
 ### 📊 GitHub Stats
