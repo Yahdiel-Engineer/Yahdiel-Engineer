@@ -41,7 +41,7 @@ Une étude approfondie sur l'accessibilité des festivals de musique en France p
 * **Tech :** Langage R, Shiny, Leaflet, Tidyverse.
 * **Data :** Utilisation des jeux de données de **Data.gouv.fr**.
 
-#### 🌐 [Network Topology Discovery](https://github.com/Yahdiel-Engineer/net-discovery)
+#### 🌐 [Network Topology Discovery](https://github.com/Yahdiel-Engineer/Twin-Network/tree/main)
 > *Automatisation Réseau (Python, NetworkX)*
 Script Python pour analyser automatiquement les configurations réseau, détecter les voisins (CDP/LLDP) et générer des diagrammes de topologie dynamiques.
 
