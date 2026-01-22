@@ -30,7 +30,7 @@
 - [🎮 RPG Game in Python](https://github.com/Yahdiel-Engineer/Pygame) – Developed a **role-playing game** from scratch using **Pygame**; implemented game logic, player mechanics, and interactive environments. Showcases **problem-solving and Python coding skills**.  
 - [🖥️ Internship API Project](https://github.com/Yahdiel-Engineer/API) – **REST API** developed during first internship with database integration and authentication 
 - [🌐 Network Topology Discovery](https://github.com/Yahdiel-Engineer/net-discovery) – Created a **Python script** to automatically analyze network configurations, detect neighbors, and generate topology diagrams. Highlights **network automation and scripting skills**.
-- [🌐 Web portal for international students]([https://github.com/Yahdiel-Engineer/net-discovery](https://eigsi.wordpress.com)) – Contributed to the technical design of the platform and developed network automation scripts for configuration analysis, neighbor discovery.
+- [🌐 Web portal for international students](https://eigsi.wordpress.com) – Contributed to the technical design of the platform and developed network automation scripts for configuration analysis, neighbor discovery.
 
 ---
 
