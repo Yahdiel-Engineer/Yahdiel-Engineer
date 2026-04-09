@@ -91,6 +91,14 @@ Moteur de jeu FPS style Doom développé entièrement en Python avec implémenta
 ### 📊 GitHub Stats
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yahdiel-Engineer&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yahdiel-Engineer&theme=radical&hide_border=true" width="48%" />
+
+</div>
+
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yahdiel-Engineer&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahdiel-Engineer&layout=compact&theme=radical&hide_border=true" height="160" alt="languages" />
 </div>
