@@ -25,6 +25,7 @@ Basé à **La Rochelle, France**, je suis un élève-ingénieur passionné par l
 
 | **Domaine** | **Technologies** |
 | :--- | :--- |
+| **Réseau** | ![Cisco](https://img.shields.io/badge/Cisco-Avancé-1BA0D7?style=flat-square&logo=cisco&logoColor=white) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Avancé-0078D4?style=flat-square) ![BGP/OSPF](https://img.shields.io/badge/BGP%2FOSPF-Intermédiaire-9B59B6?style=flat-square)
 | **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
 | **Backend** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) |
 | **Base de données** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-Géospatial-4169E1?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
@@ -88,12 +89,19 @@ Moteur de jeu FPS style Doom développé entièrement en Python avec implémenta
 
 ---
 
+
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yahdiel-Engineer&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yahdiel-Engineer&theme=radical&hide_border=true" width="48%" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yahdiel-Engineer&theme=radical&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yahdiel-Engineer&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahdiel-Engineer&layout=compact&theme=radical&hide_border=true&langs_count=8" width="49%" />
 
 </div>
 
