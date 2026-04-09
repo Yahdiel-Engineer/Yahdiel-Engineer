@@ -98,13 +98,8 @@ Moteur de jeu FPS style Doom développé entièrement en Python avec implémenta
 </div>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yahdiel-Engineer&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahdiel-Engineer&layout=compact&theme=radical&hide_border=true" height="160" alt="languages" />
-</div>
-
 ---
 
 <div align="center">
-  <i>🌍 Construire la tech pour l'Afrique centrale, un commit à la fois.</i>
+  <i>Construire la tech, un commit à la fois.</i>
 </div>
