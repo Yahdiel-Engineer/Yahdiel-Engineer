@@ -2,7 +2,7 @@
 
 # Salut, je suis Bryan Stanley KOYAWEDA
 
-### Ingénieur Réseau & Logiciels | DevOps | Mobile & Backend Developer
+### Ingénieur SI | Réseau & Logiciels | DevOps
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bryan-stanley-koyaweda-785b56265)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:stanley.koyaweda@gmail.com)
